@@ -12,7 +12,7 @@ If you have any Projects send them to me on any of my platforms. ([Discord](http
 #About Me
 - I am currently a student
 - I work with [@YSJ-Production](https://github.com/YSJ-Production).
-- I am also part of [HackHorsham - WebSite](https://Legoman101.github.io/hackhorsham.github.io/), [HackHorsham - Facebook](https://www.facebook.com/hackhorsham/)
+- I am also part of [HackHorsham - Website](https://Legoman101.github.io/hackhorsham.github.io/), [HackHorsham - Facebook](https://www.facebook.com/hackhorsham/)
 
 #Social Media
 ##follow me on social media:
