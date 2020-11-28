@@ -1,5 +1,7 @@
 #Legoman101
 
+If you have any Projects send them to me on any of my platforms. ([Discord](https://discord.gg/Uk3h7JQ22f), [Instagram](https://www.instagram.com/imtotallynothackingyouraccount/), or [My website](https://Legoman101.github.io/contact.html))
+
 [My website](https://Legoman101.github.io)
 - Where I have all of my projects
 
@@ -8,8 +10,9 @@
 - It will also have stuff like; how to hack, and how to protect yourslef from those types of hacks.
 
 #About Me
-I am currently a student
-and I work with [@YSJ-Production](https://github.com/YSJ-Production).
+- I am currently a student
+- I work with [@YSJ-Production](https://github.com/YSJ-Production).
+- I am also part of [HackHorsham - WebSite](https://Legoman101.github.io/hackhorsham.github.io/), [HackHorsham - Facebook](https://www.facebook.com/hackhorsham/)
 
 #Social Media
 ##follow me on social media:
