@@ -14,6 +14,15 @@ If you have any Projects send them to me on any of my platforms. ([Discord](http
 - I work with [@YSJ-Production](https://github.com/YSJ-Production).
 - I am also part of [HackHorsham - Website](https://Legoman101.github.io/hackhorsham.github.io/), [HackHorsham - Facebook](https://www.facebook.com/hackhorsham/)
 
+## My Organisations:
+### [Hack-Us-Now](https://github.com/Hack-Us-Now):
+- This was created as part of me and [@flynncowell](https://github.com/flynncowell) messing around.
+- It is used for random projects
+
+### [Hacking-People](https://github.com/Hacking-People):
+- This is where my Ethical Hacking, Social Engineering tutorials [website](https://hacking-people.github.io) goes. They show how to perform attacks, and also how to avoid them being done to you.
+- This is also where any of my freelancing projects will go.
+
 ## Social Media
 ### Follow me on social media:
 - Instagram: [@imtotallynothackingyouraccount](https://www.instagram.com/imtotallynothackingyouraccount/)
