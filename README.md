@@ -30,4 +30,4 @@ If you have any Projects send them to me on any of my platforms. ([Discord](http
 - Twitter: [@I_am_Legoman101](https://twitter.com/I_am_Legoman101)
 - Scratch: [i_love_lego](https://scratch.mit.edu/users/i_love_lego/)
 - Github [@Legoman101](https://github.com/legoman101/)
-- Discord [Insert Name Here #2454](https://discord.gg/Uk3h7JQ22f)
+- Discord [My Server - Legoman101 Coding Projects](https://discord.gg/Uk3h7JQ22f)
