@@ -12,7 +12,8 @@ If you have any Projects send them to me on any of my platforms. ([Discord](http
 ## About Me:
 - I am currently a student
 - I work with [@YSJ-Production](https://github.com/YSJ-Production).
-- I am also part of [HackHorsham - Website](https://Legoman101.github.io/hackhorsham.github.io/), [HackHorsham - Facebook](https://www.facebook.com/hackhorsham/)
+- I Work with [HTS Tech Team](https:/hts-tech-team.github.io).
+- I am also part of [HackHorsham - Website](https://Legoman101.github.io/hackhorsham.github.io/), [HackHorsham - Facebook](https://www.facebook.com/hackhorsham/).
 
 ## My Organisations:
 ### [Hack-Us-Now](https://github.com/Hack-Us-Now):
@@ -26,6 +27,7 @@ If you have any Projects send them to me on any of my platforms. ([Discord](http
 ## Social Media
 ### Follow me on social media:
 - Instagram: [@imtotallynothackingyouraccount](https://www.instagram.com/imtotallynothackingyouraccount/)
+- Twitter: [@I_am_Legoman101](https://twitter.com/I_am_Legoman101)
 - Scratch: [i_love_lego](https://scratch.mit.edu/users/i_love_lego/)
 - Github [@Legoman101](https://github.com/legoman101/)
 - Discord [Insert Name Here](https://discord.gg/Uk3h7JQ22f)
