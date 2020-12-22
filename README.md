@@ -24,6 +24,13 @@ If you have any Projects send them to me on any of my platforms. ([Discord](http
 - This is where my Ethical Hacking, Social Engineering tutorials [website](https://hacking-people.github.io) goes. They show how to perform attacks, and also how to avoid them being done to you.
 - This is also where any of my freelancing projects will go.
 
+## Licensing:
+### I Usually use the ```GNU Affero General Public License v3.0```
+[Here is a link: ](https://github.com/legoman101/Legoman101/blob/main/LICENSE)
+[Or the official website link here:](https://www.gnu.org/licenses/quick-guide-gplv3.html)
+
+### If I am forking someone else's repository then I will use their License.
+
 ## Social Media
 ### Follow me on social media:
 - Instagram: [@imtotallynothackingyouraccount](https://www.instagram.com/imtotallynothackingyouraccount/)
