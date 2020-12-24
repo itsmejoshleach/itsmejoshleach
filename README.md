@@ -35,7 +35,7 @@ If you have any Projects send them to me on any of my platforms. ([Discord](http
 ## Social Media
 ### Follow me on social media:
 - Instagram: [@imtotallynothackingyouraccount](https://www.instagram.com/imtotallynothackingyouraccount/)
-- Twitter: [@I_am_Legoman101](https://twitter.com/TechyYodaCoder)
+- Twitter: [@TechyYodaCoder](https://twitter.com/TechyYodaCoder)
 - Scratch: [i_love_lego](https://scratch.mit.edu/users/i_love_lego/)
-- Github [@Legoman101](https://github.com/TechyYodaCoder/)
-- Discord [My Server - Legoman101 Coding Projects](https://discord.gg/Uk3h7JQ22f)
+- Github [@TechyYodaCoder](https://github.com/TechyYodaCoder/)
+- Discord [My Server - TechyYodaCoder Coding Projects](https://discord.gg/Uk3h7JQ22f)
