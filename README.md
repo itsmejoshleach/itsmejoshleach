@@ -34,7 +34,7 @@ If you have any Projects send them to me on any of my platforms. ([Discord](http
 
 ## Social Media
 ### Follow me on social media:
-- Instagram: [@imtotallynothackingyouraccount](https://www.instagram.com/TechyYodaCoder/)
+- Instagram: [@TechyYodaCoder](https://www.instagram.com/TechyYodaCoder/)
 - Facebook: [@TechyYodaCoder](https://www.facebook.com/TechyYodaCoder)
 - Twitter: [@TechyYodaCoder](https://twitter.com/TechyYodaCoder)
 - Scratch: [i_love_lego](https://scratch.mit.edu/users/i_love_lego/)
