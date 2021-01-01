@@ -1,6 +1,6 @@
 # [TechyYodaCoder](https://compiled.social/TechyYodaCoder)
 
-If you have any Projects send them to me on any of my platforms. ([Discord](https://discord.gg/Uk3h7JQ22f), [Instagram](https://www.instagram.com/imtotallynothackingyouraccount/), or [My website](https://TechyYodaCoder.github.io/contact))
+If you have any Projects send them to me on any of my platforms. ([Discord](https://discord.gg/Uk3h7JQ22f), [Instagram](https://www.instagram.com/TechyYodaCoder/), or [My website](https://TechyYodaCoder.github.io/contact))
 
 [My website](https://TechyYodaCoder.github.io):
 - Where I have all of my projects
