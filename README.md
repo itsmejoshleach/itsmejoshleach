@@ -1,4 +1,4 @@
-# [👋 TechyYodaCoder](https://compiled.social/TechyYodaCoder)
+# [👋 TechyYodaCoder](https://linktr.ee/TechyYodaCoder)
 
 If you have any Projects send them to me on any of my platforms. ([Discord](https://discord.gg/Uk3h7JQ22f), [Instagram](https://www.instagram.com/TechyYodaCoder/), or [My website](https://TechyYodaCoder.github.io/contact))
 
