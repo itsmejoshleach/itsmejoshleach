@@ -7,7 +7,7 @@ If you have any Projects send them to me on any of my platforms. ([Discord](http
 
 [My Other Website](https://hacking-people.github.io):
 - This is a website, with social media safety stuff, and other things to do with how to stay safe online.
-- It will also have stuff like; how to hack, and how to protect yourslef from those types of hacks.
+- It will also have stuff like; how to hack, and how to protect yourself from those types of hacks.
 
 ## About Me:
 - I am currently a student
