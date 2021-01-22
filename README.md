@@ -1,6 +1,6 @@
 # [👋 CryptoidCoder](https://linktr.ee/TechyYodaCoder)
 
-If you have any Projects send them to me on any of my platforms. ([Discord](https://discord.gg/Uk3h7JQ22f), [Instagram](https://www.instagram.com/TechyYodaCoder/), or [My website](https://CryptoidCoder.github.io/contact))
+If you have any Projects send them to me on any of my platforms. ([Discord](https://discord.gg/Uk3h7JQ22f), [Instagram](https://www.instagram.com/CryptoidCoder/), or [My website](https://CryptoidCoder.github.io/contact))
 
 [My website](https://CryptoidCoder.github.io):
 - Where I have all of my projects
@@ -34,8 +34,8 @@ If you have any Projects send them to me on any of my platforms. ([Discord](http
 
 ## Social Media
 ### Follow me on social media:
-- Instagram: [@TechyYodaCoder](https://www.instagram.com/TechyYodaCoder/)
-- Twitter: [@TechyYodaCoder](https://twitter.com/TechyYodaCoder)
+- Instagram: [@CryptoidCoder](https://www.instagram.com/CryptoidCoder/)
+- Twitter: [@CryptoidCoder](https://twitter.com/CryptoidCoder)
 - Scratch: [i_love_lego](https://scratch.mit.edu/users/i_love_lego/)
 - Github [@CryptoidCoder](https://github.com/CryptoidCoder/)
 - Discord [My Server - CryptoidCoder Coding Projects](https://discord.gg/Uk3h7JQ22f)
