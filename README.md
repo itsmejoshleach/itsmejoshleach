@@ -36,6 +36,7 @@ If you have any Projects send them to me on any of my platforms. ([Discord](http
 ### Follow me on social media:
 - Instagram: [@CryptoidCoder](https://www.instagram.com/CryptoidCoder/)
 - Twitter: [@CryptoidCoder](https://twitter.com/CryptoidCoder)
+- Facebook: [@CryptoidCoder](https://facebook.com/CryptoidCoder)
 - Scratch: [i_love_lego](https://scratch.mit.edu/users/i_love_lego/)
 - Github [@CryptoidCoder](https://github.com/CryptoidCoder/)
 - Discord [My Server - CryptoidCoder Coding Projects](https://discord.gg/Uk3h7JQ22f)
