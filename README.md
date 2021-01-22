@@ -1,4 +1,4 @@
-# [👋 CryptoidCoder](https://linktr.ee/TechyYodaCoder)
+# [👋 CryptoidCoder](https://cryptoidcoder.github.io/landing)
 
 If you have any Projects send them to me on any of my platforms. ([Discord](https://discord.gg/Uk3h7JQ22f), [Instagram](https://www.instagram.com/CryptoidCoder/), or [My website](https://CryptoidCoder.github.io/contact))
 
