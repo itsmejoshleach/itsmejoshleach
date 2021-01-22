@@ -1,4 +1,4 @@
-# [👋 CryptoidCoder](https://CryptoidCoder.github.io/landing)
+# [👋 CryptoidCoder](https://linktr.ee/TechyYodaCoder)
 
 If you have any Projects send them to me on any of my platforms. ([Discord](https://discord.gg/Uk3h7JQ22f), [Instagram](https://www.instagram.com/CryptoidCoder/), or [My website](https://CryptoidCoder.github.io/contact))
 
@@ -8,16 +8,6 @@ If you have any Projects send them to me on any of my platforms. ([Discord](http
 [My Other Website](https://hacking-people.github.io):
 - This is a website, with social media safety stuff, and other things to do with how to stay safe online.
 - It will also have stuff like; how to hack, and how to protect yourself from those types of hacks.
-
-## Social Media
-### Follow me on social media:
-[![github.jpg](images/github.jpg)](https://github.com/CryptoidCoder)
-[![instagram.jpg](images/instagram.jpg)](https://www.instagram.com/CryptoidCoder)
-[![twitter.jpg](images/twitter.jpg)](https://twitter.com/CryptoidCoder)
-[![facebook.jpg](images/facebook.jpg)](https://facebook.com/CryptoidCoder)
-<!-- [![scratch.jpg](images/scratch.jpg)](https://scratch.mit.edu/users/i_love_lego) -->
-[![discord.jpg](images/discord.jpg)](https://discord.gg/Uk3h7JQ22f)
-
 
 ## About Me:
 - I am currently a student
@@ -41,3 +31,11 @@ If you have any Projects send them to me on any of my platforms. ([Discord](http
 [Or the official website link here](https://www.gnu.org/licenses/quick-guide-gplv3.html)
 
 ### If I am forking someone else's repository then I will use their License.
+
+## Social Media
+### Follow me on social media:
+- Instagram: [@CryptoidCoder](https://www.instagram.com/CryptoidCoder/)
+- Twitter: [@CryptoidCoder](https://twitter.com/CryptoidCoder)
+- Scratch: [i_love_lego](https://scratch.mit.edu/users/i_love_lego/)
+- Github [@CryptoidCoder](https://github.com/CryptoidCoder/)
+- Discord [My Server - CryptoidCoder Coding Projects](https://discord.gg/Uk3h7JQ22f)
