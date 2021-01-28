@@ -1,8 +1,8 @@
-# [👋 CryptoidCoder](https://cryptoidcoder.github.io/landing)
+# [👋 CryptoidCoder](https://cryptoidcoder.github.io/Coding-Website/landing)
 
-If you have any Projects send them to me on any of my platforms. ([Discord](https://discord.gg/Uk3h7JQ22f), [Instagram](https://www.instagram.com/CryptoidCoder/), or [My website](https://CryptoidCoder.github.io/contact))
+If you have any Projects send them to me on any of my platforms. ([Discord](https://discord.gg/Uk3h7JQ22f), [Instagram](https://www.instagram.com/CryptoidCoder/), or [My website](https://CryptoidCoder.github.io/Coding-Website/contact))
 
-[My website](https://CryptoidCoder.github.io):
+[My website](https://cryptoidcoder.github.io/Coding-Website):
 - Where I have all of my projects
 
 [My Other Website](https://hacking-people.github.io):
