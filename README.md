@@ -22,7 +22,10 @@ If you have any Projects send them to me on any of my platforms. ([Discord](http
 
 ### [Hacking-People](https://github.com/Hacking-People):
 - This is where my Ethical Hacking, Social Engineering tutorials [website](https://hacking-people.github.io) goes. They show how to perform attacks, and also how to avoid them being done to you.
-- This is also where any of my freelancing projects will go.
+
+### [CryptoidClients](https://github.com/CryptoidClients):
+- This is a place to put all of my Clients' projects.
+- Most of these will be private repo's however if The clients let me I will make them public.
 
 ## Licensing:
 ### I Usually use the ```GNU Affero General Public License v3.0```
