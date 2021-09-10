@@ -12,7 +12,7 @@ If you have any Projects send them to me on any of my platforms. ([Discord](http
 ## About Me:
 - I am currently a student
 - I work with [@YSJ-Production](https://github.com/YSJ-Production).
-- I Work with [HTS Tech Team](https://hts-tech-team.github.io).
+<!--- - I Work with [HTS Tech Team](https://hts-tech-team.github.io). -->
 - I am also part of [HackHorsham - Website](https://CryptoidCoder.github.io/hackhorsham.github.io/), [HackHorsham - Facebook](https://www.facebook.com/hackhorsham/).
 
 ## My Organisations:
@@ -22,10 +22,14 @@ If you have any Projects send them to me on any of my platforms. ([Discord](http
 
 ### [Hacking-People](https://github.com/Hacking-People):
 - This is where my Ethical Hacking, Social Engineering tutorials [website](https://hacking-people.github.io) goes. They show how to perform attacks, and also how to avoid them being done to you.
+- This also has some forks of various useful repos for ethical hacking. (These will generally be in python, to make it easy for beginers to get into.)
 
-### [CryptoidClients](https://github.com/CryptoidClients):
+### [CryptoidCo](https://github.com/CryptoidCo):
 - This is a place to put all of my Clients' projects.
-- Most of these will be private repo's however if The clients let me I will make them public.
+- This will also have all of my company stuff; website, automation code, etc
+
+### [CryptoidPulls](https://github.com/CryptoidPulls):
+- This is where all of my pull requests & forks go, this will keep everything seperate.
 
 ## Licensing:
 ### I Usually use the ```GNU Affero General Public License v3.0```
