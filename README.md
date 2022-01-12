@@ -28,9 +28,6 @@ If you have any Projects send them to me on any of my platforms. ([Discord](http
 - This is a place to put all of my Clients' projects.
 - This will also have all of my company stuff; website, automation code, etc
 
-### [CryptoidPulls](https://github.com/CryptoidPulls):
-- This is where all of my pull requests & forks go, this will keep everything seperate.
-
 ## Licensing:
 ### I Usually use the ```GNU Affero General Public License v3.0```
 [Here is a link](https://github.com/CryptoidCoder/CryptoidCoder/blob/main/LICENSE)
