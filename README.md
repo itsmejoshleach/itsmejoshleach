@@ -24,9 +24,6 @@ If you have any Projects send them to me on any of my platforms. ([Discord](http
 - This is where my Ethical Hacking, Social Engineering tutorials [website](https://hacking-people.github.io) goes. They show how to perform attacks, and also how to avoid them being done to you.
 - This also has some forks of various useful repos for ethical hacking. (These will generally be in python, to make it easy for beginers to get into.)
 
-### [CryptoidCo](https://github.com/CryptoidCo):
-- This is a place to put all of my Clients' projects.
-- This will also have all of my company stuff; website, automation code, etc
 
 ## Licensing:
 ### I Usually use the ```GNU Affero General Public License v3.0```
