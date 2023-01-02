@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on automating my life with Python.<br>👯 I’m looking to collaborate on Ai and machine learning developments.<br>🤝 I’m looking for help with physical machining & robotics using Raspberry Pi's.<br>🌱 I’m currently learning the benefits of cutting speed down on web apps.<br>💬 Ask me about websites and STEM.<br>⚡ Fun fact; I have been learning to code for 8.
+🔭 I’m currently working on automating my life with Python.<br>👯 I’m looking to collaborate on Ai and machine learning developments.<br>🤝 I’m looking for help with physical machining & robotics using Raspberry Pi's.<br>🌱 I’m currently learning the benefits of cutting speed down on web apps.<br>💬 Ask me about websites and STEM.<br>⚡ Fun fact; I have been learning to code for 8 years.
 
 
 ## 🌐 Socials:
